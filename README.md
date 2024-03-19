@@ -1,2 +1,2 @@
-# aula-gitflow
-WORKSHOP  VICTOR MAIA, EXEMPLO GITFLOW
+# Exemplo GitFlow - Aula
+WORKSHOP  GitFlow - Vitor Maia
